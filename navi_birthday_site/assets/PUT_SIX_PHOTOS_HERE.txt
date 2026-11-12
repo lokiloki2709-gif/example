@@ -1,1 +1,0 @@
-Place the six image files in this folder and name them photo-1.jpeg through photo-6.jpeg. See the main README.md.
